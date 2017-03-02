@@ -2012,16 +2012,6 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 6 -->
-  <bcf:bibdata section="6">
-    <bcf:datasource type="file" datatype="bibtex">gkiarcv.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="6">
-    <bcf:citekey order="0">*</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
   <bcf:sortlist section="1" type="entry" label="chronological">
   <bcf:sorting>
     <bcf:sort order="1" sort_direction="descending">
@@ -2063,16 +2053,6 @@
   </bcf:sorting>
   </bcf:sortlist>
   <bcf:sortlist section="5" type="entry" label="chronological">
-  <bcf:sorting>
-    <bcf:sort order="1" sort_direction="descending">
-      <bcf:sortitem order="1">year</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" sort_direction="descending">
-      <bcf:sortitem order="1">month</bcf:sortitem>
-    </bcf:sort>
-  </bcf:sorting>
-  </bcf:sortlist>
-  <bcf:sortlist section="6" type="entry" label="chronological">
   <bcf:sorting>
     <bcf:sort order="1" sort_direction="descending">
       <bcf:sortitem order="1">year</bcf:sortitem>
