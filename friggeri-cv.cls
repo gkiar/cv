@@ -209,11 +209,13 @@
 
 
 \DeclareBibliographyDriver{article}{%
-	\printfield{title}%
+	\printfield{title}
   \newblock%
+	\vspace{-5pt}%
   \printnames{author}%
   \par%
   \newblock%
+	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
     \usebibmacro{journal+issuetitle}%
@@ -232,9 +234,11 @@
 \DeclareBibliographyDriver{manual}{%
   \printfield{title}%
   \newblock%
+	\vspace{-5pt}%
   \printnames{author}%
   \par%
   \newblock%
+	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
     \usebibmacro{journal+issuetitle}%
@@ -252,9 +256,11 @@
 \DeclareBibliographyDriver{proceedings}{%
   \printfield{title}%
   \newblock%
+	\vspace{-5pt}%
   \printnames{author}%
   \par%
   \newblock%
+	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
     \usebibmacro{journal+issuetitle}%
@@ -272,9 +278,11 @@
 \DeclareBibliographyDriver{book}{%
   \printfield{title}%
   \newblock%
+	\vspace{-5pt}%
   \printnames{author}%
   \par%
   \newblock%
+	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
     \printlist{publisher}%
@@ -293,9 +301,11 @@
 \DeclareBibliographyDriver{inproceedings}{%
   \printfield{title}%
   \newblock%
+	\vspace{-5pt}%
   \printnames{author}%
   \par%
   \newblock%
+	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
     \usebibmacro{journal+issuetitle}%
@@ -313,9 +323,11 @@
 \DeclareBibliographyDriver{misc}{%
   \printfield{title}%
   \newblock%
+	\vspace{-5pt}%
   \printnames{author}%
   \par%
   \newblock%
+	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
     \usebibmacro{journal+issuetitle}%
@@ -333,9 +345,11 @@
 \DeclareBibliographyDriver{report}{%
   \printfield{title}%
   \newblock%
+	\vspace{-5pt}%
   \printnames{author}%
   \par%
   \newblock%
+	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
     \usebibmacro{journal+issuetitle}%

@@ -53,117 +53,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
-      \field{year}{2017}
-    \endentry
-    \entry{sicdb}{misc}{}
-      \name{labelname}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{28710df711844c42be69a3eef9659e36}
-      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
-      \field{sortinit}{2}
-      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
-      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{volume}{gix013}
       \field{year}{2017}
       \verb{doi}
-      \verb 10.5524/100285
+      \verb 10.1093/gigascience/gix013
       \endverb
-      \verb{url}
-      \verb https://doi.org/10.5524/100285
-      \endverb
-    \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
-      \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{year}{2017}
     \endentry
     \entry{boutiques}{report}{}
       \name{labelname}{21}{}{%
@@ -272,7 +166,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -285,15 +179,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -321,6 +215,90 @@
       \field{title}{m2g: A reference pipeline for reliable connectome estimation}
       \field{type}{techreport}
       \field{year}{2017}
+    \endentry
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
+      \field{sortinit}{2}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{e1005209}
+    \endentry
+    \entry{sicdb}{misc}{}
+      \name{labelname}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
+      \strng{namehash}{28710df711844c42be69a3eef9659e36}
+      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
+      \field{sortinit}{2}
+      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5524/100285
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5524/100285
+      \endverb
     \endentry
     \entry{neurostorm}{article}{}
       \name{labelname}{35}{}{%
@@ -673,73 +651,46 @@
       \field{type}{techreport}
       \field{year}{2017}
     \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
       \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
       \field{year}{2017}
+      \field{pages}{e1005209}
     \endentry
     \entry{grayroncal2016:wm}{report}{}
       \name{labelname}{6}{}{%
@@ -801,7 +752,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
+      \field{volume}{gix013}
       \field{year}{2017}
+      \verb{doi}
+      \verb 10.1093/gigascience/gix013
+      \endverb
     \endentry
     \entry{sicdb}{misc}{}
       \name{labelname}{11}{}{%
@@ -830,12 +785,13 @@
         {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
         {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
       \strng{namehash}{28710df711844c42be69a3eef9659e36}
       \strng{fullhash}{28710df711844c42be69a3eef9659e36}
       \field{sortinit}{2}
       \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
       \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
       \field{year}{2017}
       \verb{doi}
@@ -891,7 +847,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -904,15 +860,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -1252,117 +1208,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
-      \field{year}{2017}
-    \endentry
-    \entry{sicdb}{misc}{}
-      \name{labelname}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{28710df711844c42be69a3eef9659e36}
-      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
-      \field{sortinit}{2}
-      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
-      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{volume}{gix013}
       \field{year}{2017}
       \verb{doi}
-      \verb 10.5524/100285
+      \verb 10.1093/gigascience/gix013
       \endverb
-      \verb{url}
-      \verb https://doi.org/10.5524/100285
-      \endverb
-    \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
-      \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{year}{2017}
     \endentry
     \entry{boutiques}{report}{}
       \name{labelname}{21}{}{%
@@ -1471,7 +1321,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -1484,15 +1334,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -1520,6 +1370,90 @@
       \field{title}{m2g: A reference pipeline for reliable connectome estimation}
       \field{type}{techreport}
       \field{year}{2017}
+    \endentry
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
+      \field{sortinit}{2}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{e1005209}
+    \endentry
+    \entry{sicdb}{misc}{}
+      \name{labelname}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
+      \strng{namehash}{28710df711844c42be69a3eef9659e36}
+      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
+      \field{sortinit}{2}
+      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5524/100285
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5524/100285
+      \endverb
     \endentry
     \entry{neurostorm}{article}{}
       \name{labelname}{35}{}{%
@@ -1872,73 +1806,46 @@
       \field{type}{techreport}
       \field{year}{2017}
     \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
       \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
       \field{year}{2017}
+      \field{pages}{e1005209}
     \endentry
     \entry{grayroncal2016:wm}{report}{}
       \name{labelname}{6}{}{%
@@ -2000,7 +1907,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
+      \field{volume}{gix013}
       \field{year}{2017}
+      \verb{doi}
+      \verb 10.1093/gigascience/gix013
+      \endverb
     \endentry
     \entry{sicdb}{misc}{}
       \name{labelname}{11}{}{%
@@ -2029,12 +1940,13 @@
         {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
         {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
       \strng{namehash}{28710df711844c42be69a3eef9659e36}
       \strng{fullhash}{28710df711844c42be69a3eef9659e36}
       \field{sortinit}{2}
       \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
       \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
       \field{year}{2017}
       \verb{doi}
@@ -2090,7 +2002,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -2103,15 +2015,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -2451,117 +2363,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
-      \field{year}{2017}
-    \endentry
-    \entry{sicdb}{misc}{}
-      \name{labelname}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{28710df711844c42be69a3eef9659e36}
-      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
-      \field{sortinit}{2}
-      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
-      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{volume}{gix013}
       \field{year}{2017}
       \verb{doi}
-      \verb 10.5524/100285
+      \verb 10.1093/gigascience/gix013
       \endverb
-      \verb{url}
-      \verb https://doi.org/10.5524/100285
-      \endverb
-    \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
-      \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{year}{2017}
     \endentry
     \entry{boutiques}{report}{}
       \name{labelname}{21}{}{%
@@ -2670,7 +2476,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -2683,15 +2489,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -2719,6 +2525,90 @@
       \field{title}{m2g: A reference pipeline for reliable connectome estimation}
       \field{type}{techreport}
       \field{year}{2017}
+    \endentry
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
+      \field{sortinit}{2}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{e1005209}
+    \endentry
+    \entry{sicdb}{misc}{}
+      \name{labelname}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
+      \strng{namehash}{28710df711844c42be69a3eef9659e36}
+      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
+      \field{sortinit}{2}
+      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5524/100285
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5524/100285
+      \endverb
     \endentry
     \entry{neurostorm}{article}{}
       \name{labelname}{35}{}{%
@@ -3071,73 +2961,46 @@
       \field{type}{techreport}
       \field{year}{2017}
     \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
       \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
       \field{year}{2017}
+      \field{pages}{e1005209}
     \endentry
     \entry{grayroncal2016:wm}{report}{}
       \name{labelname}{6}{}{%
@@ -3199,7 +3062,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
+      \field{volume}{gix013}
       \field{year}{2017}
+      \verb{doi}
+      \verb 10.1093/gigascience/gix013
+      \endverb
     \endentry
     \entry{sicdb}{misc}{}
       \name{labelname}{11}{}{%
@@ -3228,12 +3095,13 @@
         {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
         {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
       \strng{namehash}{28710df711844c42be69a3eef9659e36}
       \strng{fullhash}{28710df711844c42be69a3eef9659e36}
       \field{sortinit}{2}
       \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
       \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
       \field{year}{2017}
       \verb{doi}
@@ -3289,7 +3157,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -3302,15 +3170,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -3650,117 +3518,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
-      \field{year}{2017}
-    \endentry
-    \entry{sicdb}{misc}{}
-      \name{labelname}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{28710df711844c42be69a3eef9659e36}
-      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
-      \field{sortinit}{2}
-      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
-      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{volume}{gix013}
       \field{year}{2017}
       \verb{doi}
-      \verb 10.5524/100285
+      \verb 10.1093/gigascience/gix013
       \endverb
-      \verb{url}
-      \verb https://doi.org/10.5524/100285
-      \endverb
-    \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
-      \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{year}{2017}
     \endentry
     \entry{boutiques}{report}{}
       \name{labelname}{21}{}{%
@@ -3869,7 +3631,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -3882,15 +3644,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -3918,6 +3680,90 @@
       \field{title}{m2g: A reference pipeline for reliable connectome estimation}
       \field{type}{techreport}
       \field{year}{2017}
+    \endentry
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
+      \field{sortinit}{2}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{e1005209}
+    \endentry
+    \entry{sicdb}{misc}{}
+      \name{labelname}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
+      \strng{namehash}{28710df711844c42be69a3eef9659e36}
+      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
+      \field{sortinit}{2}
+      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5524/100285
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5524/100285
+      \endverb
     \endentry
     \entry{neurostorm}{article}{}
       \name{labelname}{35}{}{%
@@ -4270,73 +4116,46 @@
       \field{type}{techreport}
       \field{year}{2017}
     \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
       \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
       \field{year}{2017}
+      \field{pages}{e1005209}
     \endentry
     \entry{grayroncal2016:wm}{report}{}
       \name{labelname}{6}{}{%
@@ -4398,7 +4217,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
+      \field{volume}{gix013}
       \field{year}{2017}
+      \verb{doi}
+      \verb 10.1093/gigascience/gix013
+      \endverb
     \endentry
     \entry{sicdb}{misc}{}
       \name{labelname}{11}{}{%
@@ -4427,12 +4250,13 @@
         {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
         {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
       \strng{namehash}{28710df711844c42be69a3eef9659e36}
       \strng{fullhash}{28710df711844c42be69a3eef9659e36}
       \field{sortinit}{2}
       \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
       \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
       \field{year}{2017}
       \verb{doi}
@@ -4488,7 +4312,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -4501,15 +4325,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -4849,117 +4673,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
-      \field{year}{2017}
-    \endentry
-    \entry{sicdb}{misc}{}
-      \name{labelname}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{11}{}{%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
-        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{28710df711844c42be69a3eef9659e36}
-      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
-      \field{sortinit}{2}
-      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
-      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{volume}{gix013}
       \field{year}{2017}
       \verb{doi}
-      \verb 10.5524/100285
+      \verb 10.1093/gigascience/gix013
       \endverb
-      \verb{url}
-      \verb https://doi.org/10.5524/100285
-      \endverb
-    \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
-      \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{year}{2017}
     \endentry
     \entry{boutiques}{report}{}
       \name{labelname}{21}{}{%
@@ -5068,7 +4786,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -5081,15 +4799,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
@@ -5117,6 +4835,90 @@
       \field{title}{m2g: A reference pipeline for reliable connectome estimation}
       \field{type}{techreport}
       \field{year}{2017}
+    \endentry
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
+      \field{sortinit}{2}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{pages}{e1005209}
+    \endentry
+    \entry{sicdb}{misc}{}
+      \name{labelname}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=10882884f34122d21080df20fc854c3c}{Kleissas}{K\bibinitperiod}{Dean}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2a65e0197c3b6d62b00ef85865725954}{Roncal}{R\bibinitperiod}{William\bibnamedelima Gray}{W\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=2100db785f70ac1ae99658ae46e75f48}{Litt}{L\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f705aeb66f50d87d971684df971246b0}{Wandell}{W\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=508fbd3e01cef97b24cd0fe51224a15f}{Poldrack}{P\bibinitperiod}{Russel\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=2e26b1691f95eca1067cbfab3b656acc}{Wiener}{W\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc6ff3d1c47334efd66860b6a809b3b}{Vogelstein}{V\bibinitperiod}{R\bibnamedelima Jacob}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
+      \strng{namehash}{28710df711844c42be69a3eef9659e36}
+      \strng{fullhash}{28710df711844c42be69a3eef9659e36}
+      \field{sortinit}{2}
+      \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.5524/100285
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5524/100285
+      \endverb
     \endentry
     \entry{neurostorm}{article}{}
       \name{labelname}{35}{}{%
@@ -5469,73 +5271,46 @@
       \field{type}{techreport}
       \field{year}{2017}
     \endentry
-    \entry{gorgolewski2016bids}{article}{}
-      \name{labelname}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+    \entry{gorgolewski2017bids}{article}{}
+      \true{morelabelname}
+      \name{labelname}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{27}{}{%
-        {{hash=af6f6c2c0743c8836d3c5f8a9292b4e0}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      \true{moreauthor}
+      \name{author}{10}{}{%
+        {{hash=f2f6a1ba9d3af382918e1f16b426729e}{Gorgolewski}{G\bibinitperiod}{Krzysztof\bibnamedelima J}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
         {{hash=e0bce0a031376c84738e2618afb09fd4}{Alfaro-Almagro}{A\bibinithyphendelim A\bibinitperiod}{Fidel}{F\bibinitperiod}{}{}{}{}}%
         {{hash=3325e05978ab33098a85fc07dd207104}{Auer}{A\bibinitperiod}{Tibor}{T\bibinitperiod}{}{}{}{}}%
         {{hash=1cb5f32b2d41b6fd761bf7a52c27a4de}{Bellec}{B\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
-        {{hash=5c4c6db664ec4cf6e3f0288cdfc64dd1}{Capota}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=895e4e20c2c0f418a0cfdf7be9bb22be}{Chakravarty}{C\bibinitperiod}{M.\bibnamedelimi Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{hash=5567b4957595c216f9babd64e1c07c7a}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W.}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=4a165ffda3a4836ae603fd4af8c2de81}{Craddock}{C\bibinitperiod}{R.\bibnamedelimi Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=4e4c569beb0ca70893ad310545d409d8}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{hash=5efdaa07b094d7552799baf1da2dbf25}{Eklund}{E\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=bad82335174e52244c1c45aa43507b06}{Esteban}{E\bibinitperiod}{Oscar}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=bc7677808561fd1db41e55673446b2df}{Flandin}{F\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3c4f32871f69d3d39bcf1a2e8facf7c9}{Ghosh}{G\bibinitperiod}{Satrajit\bibnamedelima S.}{S\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=aeb6b9a31c1079d0ac42cf29aefe4eee}{Guntupalli}{G\bibinitperiod}{J.\bibnamedelimi Swaroop}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{Jenkinson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=e8122472daed074718a9c83d0cb2b987}{Keshavan}{K\bibinitperiod}{Anisha}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=6584f353e010ec051c9b0116aa5fe3c7}{Raamana}{R\bibinitperiod}{Pradeep\bibnamedelima Reddy}{P\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
-        {{hash=55380e60b6a52e23440b953675e8a196}{Raffelt}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d902489b49533b2921458253333b5eb1}{Steele}{S\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{hash=ee17edf1fff95bdb0eece5dd57c20ab7}{Quirion}{Q\bibinitperiod}{Pierre-Olivier}{P\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
-        {{hash=e1dd08bdfc2afcae17624b44d16ff9ce}{Smith}{S\bibinitperiod}{Robert\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
-        {{hash=b86085ab3e2738f2444db0a7eb822e2b}{Strother}{S\bibinitperiod}{Stephen\bibnamedelima C.}{S\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
-        {{hash=8dfd6b3615de2946b6e0c1772b3b5827}{Varoquaux}{V\bibinitperiod}{Gael}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=2ef3de263c81c9443822f0beabf57c61}{Yarkoni}{Y\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=cf5312c8b9b72ba734d45477c5f332bc}{Wang}{W\bibinitperiod}{Yida}{Y\bibinitperiod}{}{}{}{}}%
-        {{hash=98f18430c0693753e4da8828eca14c9c}{Poldrack}{P\bibinitperiod}{Russell\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=119163420690d762400f9f78d3c61c31}{Capotă}{C\bibinitperiod}{Mihai}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=17baafdabad96de3b01f73bcc7e242ad}{Chakravarty}{C\bibinitperiod}{M\bibnamedelima Mallar}{M\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1943dda14fe46817a25b116c281798ad}{Churchill}{C\bibinitperiod}{Nathan\bibnamedelima W}{N\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{hash=bc54d5c4c2e5b393ba8298e73c6defcc}{Cohen}{C\bibinitperiod}{Alexander\bibnamedelima Li}{A\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=a22ba55891c1d3ef103ef85ff37b8f2e}{Craddock}{C\bibinitperiod}{R\bibnamedelima Cameron}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=8e46854701df8afd2ef5d9cc291790b1}{Devenyi}{D\bibinitperiod}{Gabriel\bibnamedelima A}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3657afd7a38ac5bae12a22289597c51b}
-      \strng{fullhash}{3657afd7a38ac5bae12a22289597c51b}
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{f84b833abbe12682cf220ed270f858bc}
+      \strng{fullhash}{e8dc4245aca8d00088f0add780872b38}
       \field{sortinit}{2}
-      \field{labeltitle}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
-      \field{journaltitle}{PLOS CB}
-      \field{month}{02}
-      \field{title}{BIDS Apps: Improving ease of use, accessibility and reproducibility of neuroimaging data analysis methods}
+      \field{labeltitle}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{number}{3}
+      \field{title}{BIDS apps: Improving ease of use, accessibility, and reproducibility of neuroimaging data analysis methods}
+      \field{volume}{13}
       \field{year}{2017}
+      \field{pages}{e1005209}
     \endentry
     \entry{grayroncal2016:wm}{report}{}
       \name{labelname}{6}{}{%
@@ -5597,7 +5372,11 @@
       \field{journaltitle}{GigaScience}
       \field{month}{03}
       \field{title}{Science In the Cloud (SIC): A use case in MRI Connectomics}
+      \field{volume}{gix013}
       \field{year}{2017}
+      \verb{doi}
+      \verb 10.1093/gigascience/gix013
+      \endverb
     \endentry
     \entry{sicdb}{misc}{}
       \name{labelname}{11}{}{%
@@ -5626,12 +5405,13 @@
         {{hash=e4052db41a87cae56addb18d98501100}{Burns}{B\bibinitperiod}{Randal}{R\bibinitperiod}{}{}{}{}}%
         {{hash=af060fcc70294bcb977c5915ff92d935}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
+      \list{publisher}{1}{%
+        {GigaScience Database}%
+      }
       \strng{namehash}{28710df711844c42be69a3eef9659e36}
       \strng{fullhash}{28710df711844c42be69a3eef9659e36}
       \field{sortinit}{2}
       \field{labeltitle}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
-      \field{journaltitle}{GigaScience Database}
-      \field{month}{03}
       \field{title}{Example use case of SIC with the ndmg pipeline (SIC:ndmg)}
       \field{year}{2017}
       \verb{doi}
@@ -5687,7 +5467,7 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
@@ -5700,15 +5480,15 @@
         {{hash=855797c724b987430ab235e2a8f243b7}{Zuo}{Z\bibinitperiod}{Xi-Nian}{X\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
         {{hash=07ea93ffdc42a0f3b20e800a4b14e1dc}{Milham}{M\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
         {{hash=1fd0c89630dbe760709d72bc50f6dd59}{Craddock}{C\bibinitperiod}{Cameron}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=d5f1deaa1befe81067348541ad27379b}{Kiar}{K\bibinitperiod}{Greg}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=8d97d5c95e4c0fa5b6cabb4ab84bf53e}{Kiar}{K\bibinitperiod}{Gregory}{G\bibinitperiod}{}{}{}{}}%
         {{hash=3b6cdc70ff9c4f95e38f930b62fcc8bc}{Gray\bibnamedelima Roncal}{G\bibinitperiod\bibinitdelim R\bibinitperiod}{William\bibnamedelima R.}{W\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
         {{hash=1cd976ab3734d9510502982fe4f48e54}{Bridgeford}{B\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
         {{hash=45b97c05907334b37997236c9db0890d}{CORR}{C\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=3b3a3c0de61cdd1db906040376bbccf2}{Preibe}{P\bibinitperiod}{Carey\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
         {{hash=de1e6a1c324fb27230d6d9a0166d865b}{Vogelstein}{V\bibinitperiod}{Joshua\bibnamedelima T.}{J\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{3de179c09a3c37d55eceb3426b3c00ed}
-      \strng{fullhash}{3de179c09a3c37d55eceb3426b3c00ed}
+      \strng{namehash}{a3e1038096292080d9a7813077705fa9}
+      \strng{fullhash}{a3e1038096292080d9a7813077705fa9}
       \field{sortinit}{2}
       \field{labeltitle}{Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging}
       \field{journaltitle}{In Preparation}
