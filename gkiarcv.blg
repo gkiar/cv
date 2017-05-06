@@ -1,70 +1,82 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
 [0] Config.pm:321> INFO - Logfile is 'gkiarcv.blg'
-[61] biber-darwin:275> INFO - === Wed Apr 26, 2017, 10:35:08
-[61] Biber.pm:333> INFO - Reading 'gkiarcv.bcf'
-[126] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[127] Biber.pm:607> INFO - Using all citekeys in bib section 1
-[127] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[127] Biber.pm:607> INFO - Using all citekeys in bib section 2
-[127] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[127] Biber.pm:607> INFO - Using all citekeys in bib section 3
-[127] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[128] Biber.pm:607> INFO - Using all citekeys in bib section 4
-[128] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[128] Biber.pm:607> INFO - Using all citekeys in bib section 5
-[128] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[150] Biber.pm:3053> INFO - Processing section 1
-[173] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 1
-[176] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
-[181] bibtex.pm:812> INFO - Found BibTeX data source 'gkiarcv.bib'
-[254] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[255] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[304] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[305] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
-[305] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[363] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[363] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
-[363] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[595] Biber.pm:3053> INFO - Processing section 2
-[596] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 2
-[675] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[72] biber-darwin:275> INFO - === Sat May  6, 2017, 08:43:27
+[72] Biber.pm:333> INFO - Reading 'gkiarcv.bcf'
+[154] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[154] Biber.pm:607> INFO - Using all citekeys in bib section 1
+[155] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[155] Biber.pm:607> INFO - Using all citekeys in bib section 2
+[155] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[155] Biber.pm:607> INFO - Using all citekeys in bib section 3
+[155] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[155] Biber.pm:607> INFO - Using all citekeys in bib section 4
+[155] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[155] Biber.pm:607> INFO - Using all citekeys in bib section 5
+[156] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[156] Biber.pm:607> INFO - Using all citekeys in bib section 6
+[156] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[175] Biber.pm:3053> INFO - Processing section 1
+[193] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 1
+[197] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[204] bibtex.pm:812> INFO - Found BibTeX data source 'gkiarcv.bib'
+[267] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[268] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[316] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[316] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[316] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[367] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[367] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[367] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[433] Biber.pm:3053> INFO - Processing section 2
+[433] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 2
+[474] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[474] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[503] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[503] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[504] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[548] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[548] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[549] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[616] Biber.pm:3053> INFO - Processing section 3
+[617] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 3
+[674] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
 [675] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[715] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[715] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
-[715] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[784] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[784] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
-[784] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[869] Biber.pm:3053> INFO - Processing section 3
-[870] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 3
-[937] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[938] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[967] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[967] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
-[967] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1019] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1019] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
-[1019] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1093] Biber.pm:3053> INFO - Processing section 4
-[1094] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 4
-[1150] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1150] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[1187] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1187] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
-[1187] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1260] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1260] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
-[1260] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1324] Biber.pm:3053> INFO - Processing section 5
-[1324] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 5
-[1368] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1368] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[721] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[721] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[722] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[788] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[788] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[788] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[854] Biber.pm:3053> INFO - Processing section 4
+[854] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 4
+[903] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[903] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[930] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[931] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[931] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[978] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[978] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[978] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1044] Biber.pm:3053> INFO - Processing section 5
+[1045] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 5
+[1093] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1093] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1125] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[1125] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[1125] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1175] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[1175] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[1176] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1242] Biber.pm:3053> INFO - Processing section 6
+[1242] Biber.pm:3190> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 6
+[1291] Utils.pm:169> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1291] Utils.pm:169> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1329] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[1330] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[1330] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
 [1408] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1408] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
-[1408] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1493] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[1493] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
-[1494] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[1593] bbl.pm:482> INFO - Writing 'gkiarcv.bbl' with encoding 'UTF-8'
-[1652] bbl.pm:555> INFO - Output to gkiarcv.bbl
-[1653] Biber.pm:105> INFO - WARNINGS: 10
+[1408] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[1409] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[1475] bbl.pm:482> INFO - Writing 'gkiarcv.bbl' with encoding 'UTF-8'
+[1542] bbl.pm:555> INFO - Output to gkiarcv.bbl
+[1542] Biber.pm:105> INFO - WARNINGS: 12
