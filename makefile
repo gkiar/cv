@@ -4,6 +4,7 @@ BIBTEX = biber
 
 default: $(TEX).tex 
 	$(RM) -f  *.blg *.dvi *.log *.toc *.lof *.lot *.cb *.bbl *.brf *.out *.aux $(TEX).ps;
+	$(RM) `$(BIBER) --cache`;
 	$(LATEX) $(TEX).tex; $(BIBTEX) $(TEX); $(LATEX) $(TEX).tex;
 	open $(TEX).pdf &
 
