@@ -362,6 +362,23 @@
   \par\vspace{0.3\baselineskip}
 }
 
+\DeclareBibliographyDriver{booklet}{%
+  \printfield{title}%
+  \newblock%
+  \par%
+  \newblock%
+	\vspace{-5pt}%
+  {%
+    \footnotesize\addfontfeature{Color=lightgray}\itshape%
+    \usebibmacro{journal+issuetitle}%
+    \setunit{\space}%
+    \printfield{number}%
+    \setunit{\addcomma\space}%
+    \newunit%
+		.
+  }
+  \par\vspace{0.3\baselineskip}
+}
 \DeclareNameFormat{author}{%
   \small\addfontfeature{Color=lightgray}%
   \ifblank{#3}{}{#3\space}#1%
