@@ -51,7 +51,7 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage{fontawesome}
 
-\RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
+\RequirePackage[math-style=TeX]{unicode-math}
 
 \newfontfamily\bodyfont[]{[Gentona-Medium.ttf]}
 \newfontfamily\thinfont[]{[Gentona-Light.ttf]}
@@ -381,7 +381,8 @@
 }
 \DeclareNameFormat{author}{%
   \small\addfontfeature{Color=lightgray}%
-  \ifblank{#3}{}{#3\space}#1%
+	\ifstrequal{\namepartfamily,Kiar}{}{}%
+  \ifblank{\namepartgiven}{}{\namepartgiven\space}\namepartfamily%
   \ifthenelse{\value{listcount}<\value{liststop}}
     {\addcomma\space}
     {}%
