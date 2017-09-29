@@ -1,213 +1,213 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is 'gkiarcv.blg'
-[51] biber-darwin:303> INFO - === Thu Sep 14, 2017, 13:52:52
-[75] Biber.pm:359> INFO - Reading 'gkiarcv.bcf'
-[182] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[183] Biber.pm:832> INFO - Using all citekeys in bib section 1
-[183] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[183] Biber.pm:832> INFO - Using all citekeys in bib section 2
-[183] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[183] Biber.pm:832> INFO - Using all citekeys in bib section 3
-[183] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[184] Biber.pm:832> INFO - Using all citekeys in bib section 4
-[184] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[184] Biber.pm:832> INFO - Using all citekeys in bib section 5
-[184] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[184] Biber.pm:832> INFO - Using all citekeys in bib section 6
-[184] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[184] Biber.pm:832> INFO - Using all citekeys in bib section 7
-[184] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
-[250] Biber.pm:3670> INFO - Processing section 1
-[275] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 1
-[278] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[291] bibtex.pm:1292> INFO - Found BibTeX data source 'gkiarcv.bib'
-[301] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
-[304] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
-[305] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
-[308] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
-[311] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
-[317] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
-[318] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
-[324] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
-[331] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
-[340] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
-[342] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
-[354] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
-[355] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
-[356] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
-[357] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
-[395] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
-[395] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
-[396] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
-[402] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
-[402] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[402] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[457] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[457] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[457] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[457] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[489] Biber.pm:3670> INFO - Processing section 2
-[490] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 2
-[495] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
-[498] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
-[499] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
-[501] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
-[503] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
-[509] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
-[510] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
-[518] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
-[519] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
-[521] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
-[522] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
-[542] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
-[543] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
-[544] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
-[545] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
-[553] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
-[553] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
-[555] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
-[561] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
-[562] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[562] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[613] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[613] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[613] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[613] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[652] Biber.pm:3670> INFO - Processing section 3
-[653] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 3
-[660] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
-[663] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
-[664] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
-[669] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
-[671] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
-[676] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
-[677] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
-[691] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
-[692] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
-[694] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
-[695] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
-[709] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
-[710] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
-[711] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
-[712] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
-[722] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
-[722] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
-[724] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
-[729] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
-[730] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[730] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[789] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[789] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[789] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[789] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[823] Biber.pm:3670> INFO - Processing section 4
-[823] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 4
-[829] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
-[838] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
-[839] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
-[842] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
-[844] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
-[849] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
-[849] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
-[855] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
-[856] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
-[860] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
-[861] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
-[877] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
-[877] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
-[878] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
-[879] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
-[895] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
-[895] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
-[897] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
-[902] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
-[902] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[902] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[954] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[954] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[954] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[955] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[996] Biber.pm:3670> INFO - Processing section 5
-[996] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 5
-[1001] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
-[1003] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
-[1004] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
-[1009] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
-[1011] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
-[1018] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
-[1019] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
-[1025] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
-[1026] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
-[1028] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
-[1029] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
-[1050] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
-[1051] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
-[1052] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
-[1052] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
-[1062] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
-[1062] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
-[1066] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
-[1072] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
-[1073] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1073] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[1125] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1125] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1126] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[1126] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[1167] Biber.pm:3670> INFO - Processing section 6
-[1167] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 6
-[1173] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
-[1175] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
-[1176] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
-[1179] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
-[1187] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
-[1193] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
-[1194] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
-[1200] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
-[1201] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
-[1203] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
-[1204] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
-[1220] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
-[1221] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
-[1222] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
-[1223] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
-[1232] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
-[1233] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
-[1240] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
-[1245] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
-[1246] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1246] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[1301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1301] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1301] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[1301] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[1343] Biber.pm:3670> INFO - Processing section 7
-[1343] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 7
-[1349] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
-[1351] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
-[1352] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
-[1363] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
-[1367] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
-[1376] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
-[1377] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
-[1390] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
-[1391] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
-[1393] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
-[1394] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
-[1408] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
-[1409] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
-[1410] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
-[1411] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
-[1422] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
-[1423] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
-[1424] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
-[1429] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
-[1430] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1430] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[1488] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1489] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1489] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
-[1489] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[1525] bbl.pm:608> INFO - Writing 'gkiarcv.bbl' with encoding 'UTF-8'
-[1571] bbl.pm:712> INFO - Output to gkiarcv.bbl
-[1573] Biber.pm:109> INFO - WARNINGS: 147
+[51] biber-darwin:303> INFO - === Fri Sep 29, 2017, 18:03:45
+[85] Biber.pm:359> INFO - Reading 'gkiarcv.bcf'
+[185] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[185] Biber.pm:832> INFO - Using all citekeys in bib section 1
+[186] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[186] Biber.pm:832> INFO - Using all citekeys in bib section 2
+[186] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[186] Biber.pm:832> INFO - Using all citekeys in bib section 3
+[186] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[187] Biber.pm:832> INFO - Using all citekeys in bib section 4
+[187] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[187] Biber.pm:832> INFO - Using all citekeys in bib section 5
+[187] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[187] Biber.pm:832> INFO - Using all citekeys in bib section 6
+[187] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[188] Biber.pm:832> INFO - Using all citekeys in bib section 7
+[188] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[251] Biber.pm:3670> INFO - Processing section 1
+[273] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 1
+[277] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[287] bibtex.pm:1292> INFO - Found BibTeX data source 'gkiarcv.bib'
+[295] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
+[297] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
+[298] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
+[304] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
+[320] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
+[321] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
+[354] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
+[354] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
+[356] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
+[358] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
+[366] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
+[367] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
+[371] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
+[378] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
+[388] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
+[394] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
+[394] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
+[397] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
+[398] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
+[401] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[401] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[447] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[447] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[447] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[447] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[480] Biber.pm:3670> INFO - Processing section 2
+[480] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 2
+[482] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
+[482] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
+[483] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
+[487] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
+[496] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
+[496] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
+[504] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
+[504] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
+[505] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
+[507] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
+[511] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
+[512] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
+[517] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
+[525] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
+[534] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
+[537] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
+[538] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
+[540] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
+[545] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
+[547] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[547] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[590] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[591] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[591] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[591] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[627] Biber.pm:3670> INFO - Processing section 3
+[628] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 3
+[630] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
+[631] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
+[633] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
+[638] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
+[643] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
+[644] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
+[655] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
+[655] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
+[657] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
+[660] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
+[667] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
+[668] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
+[672] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
+[678] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
+[688] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
+[691] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
+[692] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
+[697] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
+[699] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
+[701] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[702] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[748] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[748] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[749] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[749] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[784] Biber.pm:3670> INFO - Processing section 4
+[785] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 4
+[786] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
+[787] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
+[787] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
+[792] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
+[800] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
+[801] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
+[809] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
+[809] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
+[811] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
+[815] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
+[821] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
+[822] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
+[826] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
+[831] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
+[840] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
+[846] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
+[847] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
+[850] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
+[851] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
+[854] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[854] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[902] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[903] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[903] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[903] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[937] Biber.pm:3670> INFO - Processing section 5
+[937] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 5
+[939] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
+[939] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
+[940] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
+[947] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
+[953] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
+[953] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
+[963] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
+[964] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
+[965] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
+[969] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
+[975] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
+[976] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
+[978] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
+[983] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
+[992] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
+[998] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
+[999] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
+[1000] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
+[1002] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
+[1004] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1004] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1050] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1050] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1050] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[1050] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1084] Biber.pm:3670> INFO - Processing section 6
+[1084] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 6
+[1085] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
+[1086] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
+[1087] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
+[1094] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
+[1101] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
+[1102] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
+[1114] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
+[1115] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
+[1116] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
+[1121] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
+[1127] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
+[1128] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
+[1131] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
+[1135] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
+[1148] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
+[1151] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
+[1151] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
+[1154] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
+[1155] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
+[1157] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1157] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1203] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1203] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1203] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[1203] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1237] Biber.pm:3670> INFO - Processing section 7
+[1237] Biber.pm:3840> INFO - Looking for bibtex format file 'gkiarcv.bib' for section 7
+[1239] Utils.pm:164> WARN - month field 'oct' in entry 'Vogelstein2015sfn' is not an integer - this will probably not sort properly.
+[1239] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017OSR1' is not an integer - this will probably not sort properly.
+[1240] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017clowder' is not an integer - this will probably not sort properly.
+[1247] Utils.pm:164> WARN - month field 'jun' in entry 'gorgolewski2017bidsposter' is not an integer - this will probably not sort properly.
+[1253] Utils.pm:164> WARN - month field 'jun' in entry 'Brainx2017' is not an integer - this will probably not sort properly.
+[1254] Utils.pm:164> WARN - month field 'sep' in entry 'Kimmich2017nih' is not an integer - this will probably not sort properly.
+[1267] Utils.pm:164> WARN - ISBN '0896-6273' in entry 'neurostorm' is invalid - run biber with '--validate_datamodel' for details.
+[1267] Utils.pm:164> WARN - month field 'nov' in entry 'neurostorm' is not an integer - this will probably not sort properly.
+[1269] Utils.pm:164> WARN - month field 'apr' in entry 'kiar2016gremlin' is not an integer - this will probably not sort properly.
+[1273] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2016mrgrute' is not an integer - this will probably not sort properly.
+[1277] Utils.pm:164> WARN - month field 'dec' in entry 'Dyer2017nips' is not an integer - this will probably not sort properly.
+[1277] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017brainhack' is not an integer - this will probably not sort properly.
+[1279] Utils.pm:164> WARN - month field 'sep' in entry 'Kiar2017ndmg' is not an integer - this will probably not sort properly.
+[1284] Utils.pm:164> WARN - month field 'jan' in entry 'gorgolewski2017bids' is not an integer - this will probably not sort properly.
+[1296] Utils.pm:164> WARN - month field 'mar' in entry 'kiar2017sic' is not an integer - this will probably not sort properly.
+[1299] Utils.pm:164> WARN - month field 'aug' in entry 'vogelstein2016grandchallenges' is not an integer - this will probably not sort properly.
+[1300] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2017sictalk' is not an integer - this will probably not sort properly.
+[1303] Utils.pm:164> WARN - month field 'jun' in entry 'Kiar2015c4' is not an integer - this will probably not sort properly.
+[1304] Utils.pm:164> WARN - month field 'may' in entry 'Kiar2013wef' is not an integer - this will probably not sort properly.
+[1306] Utils.pm:164> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1306] Utils.pm:164> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1354] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1354] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1354] Biber.pm:3499> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'en-US'
+[1354] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1388] bbl.pm:608> INFO - Writing 'gkiarcv.bbl' with encoding 'UTF-8'
+[1428] bbl.pm:712> INFO - Output to gkiarcv.bbl
+[1428] Biber.pm:109> INFO - WARNINGS: 147
