@@ -200,6 +200,7 @@
 \DeclareFieldFormat[article]{title}{#1\par}
 \DeclareFieldFormat[manual]{title}{#1\par}
 \DeclareFieldFormat[book]{title}{#1\par}
+\DeclareFieldFormat[booklet]{title}{#1\par}
 \DeclareFieldFormat[inproceedings]{title}{#1\par}
 \DeclareFieldFormat[proceedings]{title}{#1\par}
 \DeclareFieldFormat[misc]{title}{#1\par}
