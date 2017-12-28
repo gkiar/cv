@@ -6,6 +6,10 @@ default: $(TEX).tex
 	$(RM) -f  *.blg *.dvi *.log *.toc *.lof *.lot *.cb *.bbl *.brf *.out *.aux $(TEX).ps;
 	$(RM) `$(BIBER) --cache`;
 	$(LATEX) $(TEX).tex; $(BIBTEX) $(TEX); $(LATEX) $(TEX).tex;
+	# if docker image not found
+	# docker build -t gkiar/gkiarcv .
+	# 
+	# docker run -ti -v ${PWD}:/data/ -w /data/ gkiar/gkiarcv
 	open $(TEX).pdf &
 
 clean:

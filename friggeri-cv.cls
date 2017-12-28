@@ -24,9 +24,14 @@
 \definecolor{green}{HTML}{33A02C}
 \definecolor{orange}{HTML}{F75C03}
 \definecolor{purple}{HTML}{921273}
-\definecolor{red}{HTML}{D90368}
-\definecolor{blue}{HTML}{318dde}
-\definecolor{brown}{HTML}{006BA6}
+\definecolor{pink}{HTML}{D90368}
+\definecolor{lightblue}{HTML}{318dde}
+\definecolor{blue}{HTML}{006BA6}
+\definecolor{red}{HTML}{BA2638}
+\definecolor{plubblue}{HTML}{1C518C}
+\definecolor{orcidgreen}{HTML}{8ACC00}
+\definecolor{googred}{HTML}{F90F1D}
+\definecolor{gateteal}{HTML}{00C9AD}
 
 \ifdefined\@cv@print
   \colorlet{green}{gray}
@@ -35,6 +40,7 @@
   \colorlet{brown}{gray}
   \colorlet{red}{gray}
   \colorlet{blue}{gray}
+	\colorlet{pink}{gray}
   \colorlet{fillheader}{white}
   \colorlet{header}{gray}
 \else
@@ -50,6 +56,7 @@
 
 \RequirePackage[quiet]{fontspec}
 \RequirePackage{fontawesome}
+\RequirePackage{academicons}
 
 \RequirePackage[math-style=TeX]{unicode-math}
 
@@ -105,12 +112,13 @@
   {%
     \color{%
       \ifcase\value{colorCounter}%
-        blue\or%
+        lightblue\or%
         red\or%
         orange\or%
         green\or%
-        purple\or%
-        brown\else%
+        pink\or%
+				blue\or%
+        purple\else%
         headercolor\fi%
     } #1#2#3%
   }%
