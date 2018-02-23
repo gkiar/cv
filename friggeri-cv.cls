@@ -200,6 +200,7 @@
 \DeclareFieldFormat[article]{title}{#1\par}
 \DeclareFieldFormat[manual]{title}{#1\par}
 \DeclareFieldFormat[book]{title}{#1\par}
+\DeclareFieldFormat[inbook]{title}{#1\par}
 \DeclareFieldFormat[booklet]{title}{#1\par}
 \DeclareFieldFormat[inproceedings]{title}{#1\par}
 \DeclareFieldFormat[proceedings]{title}{#1\par}
@@ -294,13 +295,34 @@
 	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
+    \usebibmacro{journal+issuetitle}%
+    \setunit{\space}%
+    \printfield{pages}%
+    \newunit%
     \printlist{publisher}%
     \setunit*{\addcomma\space}%
-    \printfield{note}%
+    \newunit%
+		.
+  }
+  \par\vspace{0.3\baselineskip}
+}
+
+\DeclareBibliographyDriver{inbook}{%
+  \printfield{title}%
+  \newblock%
+	\vspace{-5pt}%
+  \printnames{author}%
+  \par%
+  \newblock%
+	\vspace{-5pt}%
+  {%
+    \footnotesize\addfontfeature{Color=lightgray}\itshape%
+    \usebibmacro{journal+issuetitle}%
+    \setunit{\space}%
+    \printfield{pages}%
+    \newunit%
+    \printlist{publisher}%
     \setunit*{\addcomma\space}%
-    \printfield{year}%
-    \setunit{\addcomma\space}%
-    \printlist{location}%
     \newunit%
 		.
   }

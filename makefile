@@ -1,7 +1,8 @@
 TEX = gkiarcv
 
 default: $(TEX).tex 
-	docker run -ti -v ${PWD}:/data gkiar/gkiarcv /data
+	# docker run -ti -v ${PWD}:/data gkiar/gkiarcv /data
+	docker run -ti -v ${PWD}:/data gkiar/cv:compiled /data
 	open $(TEX).pdf &
 
 clean:
