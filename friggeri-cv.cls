@@ -195,7 +195,7 @@
 % Bibliography %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[style=verbose, maxnames=99, sorting=ydnt]{biblatex}
+\RequirePackage[style=verbose, maxnames=99,sorting=chronological]{biblatex}
 
 \DeclareFieldFormat[article]{title}{#1\par}
 \DeclareFieldFormat[manual]{title}{#1\par}
@@ -401,10 +401,13 @@
 	\vspace{-5pt}%
   {%
     \footnotesize\addfontfeature{Color=lightgray}\itshape%
-    \usebibmacro{journal+issuetitle}%
+    \usebibmacro{journal+issuetitle},%
     \setunit{\space}%
     \printfield{number}%
     \setunit{\addcomma\space}%
+    \newunit%
+    \printlist{publisher}%
+    \setunit*{\addcomma\space}%
     \newunit%
 		.
   }

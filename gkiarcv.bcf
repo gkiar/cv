@@ -131,7 +131,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortscheme</bcf:key>
-      <bcf:value>ydnt</bcf:value>
+      <bcf:value>chronological</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
@@ -710,28 +710,11 @@
   <!-- SORTING -->
   <bcf:sorting>
     <bcf:presort>mm</bcf:presort>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   <!-- DATA MODEL -->
@@ -2222,219 +2205,83 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <bcf:sortlist section="1" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="1" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="2" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="2" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="3" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="3" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="4" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="4" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="5" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="5" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="6" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="6" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="7" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="7" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="8" name="ydnt/global/" type="entry" sortscheme="ydnt" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="8" name="chronological/global/" type="entry" sortscheme="chronological" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
-    <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">year</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3" sort_direction="descending">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem order="3">9999</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
+    <bcf:sort order="2" sort_direction="descending">
+      <bcf:sortitem order="1">month</bcf:sortitem>
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
