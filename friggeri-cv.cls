@@ -408,6 +408,7 @@
     \newunit%
     \printlist{publisher}%
     \setunit*{\addcomma\space}%
+    \printfield{note}%
     \newunit%
 		.
   }
