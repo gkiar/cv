@@ -1,10 +1,4 @@
 %% InSubmission
-@manual{kiar2018clowdrpre,
-  title={A Serverless Tool for Platform Agnostic Computational Experiment Management},
-  author={\textbf{Kiar}, \textbf{G.} and Brown, S.~T. and Glatard, T. and Evans, A.~C.},
-  journal={arXiv preprint arXiv:1809.07693},
-  year={2018}
-}
 @manual{Kiar2018ndmgpre,
     author = {\textbf{Kiar}, \textbf{G.} and Bridgeford, E.~W. and Gray~Roncal, W.~R. and Chandrashekhar, V. and Mhembere, D. and Ryman, S. and Zuo, X.~N. and Marguiles, D.~S. and Craddock, R.~C. and Priebe, C.~E. and Jung, R. and Calhoun, V.~D. and Caffo, B. and Burns, R. and Milham, M.~P. and Vogelstein, J.~T.},
     title = {A High-Throughput Pipeline Identifies Robust Connectomes But Troublesome Variability},
@@ -26,7 +20,19 @@
 %}
 
 %% PeerReviewedJournalArticles
-@article{Glatard_2018,
+@article{kiar2019clowdr,
+author={\textbf{Kiar}, \textbf{G.} and Brown, S.~T. and Glatard, T. and Evans, A.~C.},
+title={A Serverless Tool for Platform Agnostic Computational Experiment Management},
+journal={Frontiers in Neuroinformatics},
+volume={13},
+pages={12},
+year={2019},
+url={https://www.frontiersin.org/article/10.3389/fninf.2019.00012},
+DOI={10.3389/fninf.2019.00012},
+ISSN={1662-5196},   
+abstract={Neuroscience has been carried into the domain of big data and high performance computing (HPC) on the backs of initiatives in data collection and an increasingly compute-intensive tools. While managing HPC experiments requires considerable technical acumen, platforms and standards have been developed to ease this burden on scientists. While web-portals make resources widely accessible, data organizations such as the Brain Imaging Data Structure and tool description languages such as Boutiques provide researchers with a foothold to tackle these problems using their own datasets, pipelines, and environments. While these standards lower the barrier to adoption of HPC and cloud systems for neuroscience applications, they still require the consolidation of disparate domain-specific knowledge. We present Clowdr, a lightweight tool to launch experiments on HPC systems and clouds, record rich execution records, and enable the accessible sharing and re-launch of experimental summaries and results. Clowdr uniquely sits between web platforms and bare-metal applications for experiment management by preserving the flexibility of do-it-yourself solutions while providing a low barrier for developing, deploying and disseminating neuroscientific analysis.}
+}
+@article{glatard2018boutiques,
   title={Boutiques: a flexible framework to integrate command-line applications in computing platforms},
   volume={7},
   ISSN={2047-217X},
@@ -38,7 +44,7 @@
   author={Glatard, T. and \textbf{Kiar}, \textbf{G.} and Aumentado-Armstrong, T. and Beck, N. and Bellec, P. and Bernard, R. and Bonnet, A. and Brown, S.~T. and Camarasu-Pop, S. and Cervenansky, F. and Das, S. and Ferreira~da~Silva, R. and Flandin, G. and Girard, P. and Gorgolewski, K.~J. and Guttmann, C.~R.~G. and Hayot-Sasson, V. and Quirion, P.~O. and Rioux, P. and Rousseau, M.~E. and Evans, A.~C.},
   year={2018},
   month={Mar}}
-@article{Matelsky_2018,
+@article{matelsky2018containers,
   title={Container-Based Clinical Solutions for Portable and Reproducible Image Analysis},
   volume={31},
   ISSN={1618-727X},
@@ -142,68 +148,101 @@ archivePrefix = "arXiv",
 }
 
 %% Talks & Workshops
+@booklet{ossig2019symposium,
+  title={From “Open Science” to “Science”: Shifting the status quo in data sharing, software, and publishing},
+  journal={},
+  publisher={Organization for Human Brain Mapping},
+  year={2019},
+  month={jun},
+  note={Symposium and presentation}
+}
+@booklet{Kiar2019fairpipelines_ohbm,
+  title = {A FAIR Approach to Neuroimaging Analysis with Boutiques},
+  journal = {Software Demonstration},
+  publisher = {Organization for Human Brain Mapping},
+  year = {2018},
+  month = {jun},
+  note={Presentation}
+}
+@booklet{Kiar2019hbhltraining,
+  title = {Introduction to Scientific Software Development and Machine Learning},
+  journal = {Healthy Brains for Healthy Lives},
+  publisher = {McGill University},
+  year = {2019},
+  month = {feb},
+  note={Workshop}
+}
 @booklet{Kiar2018ohbmconnectome,
   title = {Connectome Coding: what is it, how do we do it, and why do we care?},
   journal = {Data science in Neuroscience Symposium},
   publisher = {Organization for Human Brain Mapping},
   year = {2018},
-  month = {jun}
+  month = {jun},
+  note={Presentation}
 }
 @booklet{Kiar2018ohbmhackathon,
   title = {OHBM Annual BrainHack \& TrainTrack},
   journal = {Open Science Special Interest Group},
   publisher = {Organization for Human Brain Mapping},
   year = {2018},
-  month = {jun}
+  month = {jun},
+  note={Workshop}
 }
 @booklet{Kiar2018bhg,
   title = {Brainhack Global: Montreal Edition},
   journal = {Brainhack},
   publisher = {McGill University \& Universite de Montreal},
   year = {2018},
-  month = {jun}
+  month = {jun},
+  note={Workshop}
 }
 @booklet{Kiar2018feindel,
   title = {A Data Driven Approach for Tackling Big Data Connectomics},
   journal = {Feindel Brain Imaging Lecture},
   publisher = {Montreal Neurological Institute},
   year = {2018},
-  month = {feb}
+  month = {feb},
+  note={Presentation}
 }
 @booklet{Kiar2018neuronerds,
-  title = {Coding for Neuronerds: An Introduction to Neuroscience Informatics},
+  title = {Coding for Neuroscientists: An Introduction to Neuroscience Informatics},
   journal = {Graduate Student Association for Neuroscience},
   publisher = {McGill University},
   year = {2018},
-  month = {jan}
+  month = {jan},
+  note={Workshop}
 }
 @booklet{Kiar2017hbhl,
 	title = {Enabling Accessible and Scalable Neuroscience},
 	journal = {Healthy Brains For Healthy Lives},
 	publisher = {McGill University},
 	year = {2017},
-	month={nov}
+	month={nov},
+  note={Presentation}
 }
 @booklet{Kiar2017cbrain,
 	title = {Platforms for high performance computing in neuroscience},
 	journal = {Neuroinformatics in the Age of Big Data: Working with the Right Data and Tools},
 	publisher = {Society for Neuroscience},
 	year = {2017},
-	month={nov}
+	month={nov},
+  note={Workshop}
 }
 @booklet{Dyer2017nips,
 	title = {BigNeuro 2017: Analyzing brain data from nano to macroscale},
-  journal = {NIPS Workshop},
+  journal = {},
 	publisher = {Neural Information Processing Systems},
 	year = {2017},
-	month={dec}
+	month={dec},
+  note={Workshop}
 }
 @booklet{Kimmich2017nih,
 	title = {Brainhack101 \& Exploratory Data Analysis},
 	journal = {Online Intensive for Brain Science: Computation and Imaging},
   publisher = {National Institute of Health},
 	year = {2017},
-	month={sep}
+	month={sep},
+  note={Presentation}
 }
 @booklet{Kiar2017clowder,
 	title = {ClowdControl: Integrating Quality Control and Pipeline Deployment in the Cloud},
@@ -211,7 +250,8 @@ archivePrefix = "arXiv",
 	publisher = {Organization for Human Brain Mapping},
 	year = {2017},
 	month={jun},
-	day={27}
+	day={27},
+  note={Presentation}
 }
 @booklet{Kiar2017OSR1,
 	title = {Open Science Session Chair},
@@ -219,7 +259,8 @@ archivePrefix = "arXiv",
 	publisher = {Organization for Human Brain Mapping},
 	year = {2017},
 	month={jun},
-	day={27}
+	day={27},
+  note={Workshop}
 }
 @booklet{Kiar2017sictalk,
 	title = {Science in the Cloud (SIC): A use-case in MRI Connectomics},
@@ -227,7 +268,8 @@ archivePrefix = "arXiv",
 	publisher = {Organization for Human Brain Mapping},
 	year = {2017},
 	month={jun},
-	day={26}
+	day={26},
+  note={Presentation}
 }
 @booklet{Kiar2017brainhack,
 	title = {Brain Hacking 101},
@@ -235,7 +277,8 @@ archivePrefix = "arXiv",
 	publisher = {Organization for Human Brain Mapping},
 	year = {2017},
 	month={jun},
-	day={25}
+	day={25},
+  note={Presentation}
 }
 @booklet{Brainx2017,
 	title = {NeuroStorm: Accelerating Brain Science Discovery in the Cloud},
@@ -243,10 +286,25 @@ archivePrefix = "arXiv",
 	publisher = {National Science Foundation},
 	year = {2017},
 	month={jun},
-	day={7}
+	day={7},
+  note={Workshop}
 }
 
 %% ConferencePosters
+@proceedings{kiar2019boutiquesfairohbm_poster,
+  title   = {A FAIR Approach to Neuroimaging Analysis with Boutiques},
+  author  = {\textbf{Kiar}, \textbf{G.} and Benderoff, E. and Charrière, J. and Dubé, S. and Guérin, L.~O. and Bonnet, A. and Camarasu-Pop, S. and Beck, N. and Rioux, P. and Boroday, S. and Brown, S.~T. and Poline, J.~B. and Evans, A.~E. and Glatard, T.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2019},
+	month   = {jun}
+}
+@proceedings{kiar2019boutiquesfairohbm_poster,
+  title   = {OHBM 2019, Advancements in the CBRAIN Platform through the Integration of Community-Based Tools and Standards},
+  author  = {Brown, S.~T. and  Rioux, P. and Beck, N. and Khalili-Mahani, N. and Czech, C. and Taheri, A. and Boroday, S. and \textbf{Kiar}, \textbf{G.} and Lecours-Boucher, X. and Makowski, C. and Quesnel, D. and Poline, J.~B. and Adalat, R. and Glatard, T. and Evans, A.~C.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2019},
+	month   = {jun}
+}
 @proceedings{suarez2018struct2func,
   title   = {Reverse Engineering the Human Connectome: Learning Function from Structure},
   author  = {Suarez, L.~E. and \textbf{Kiar}, \textbf{G.} and Doyle, R.~A. and Evans, A.~C. and Misic, B.},
