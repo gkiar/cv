@@ -1,25 +1,162 @@
 %% InSubmission
-@manual{Kiar2018ndmgpre,
-    author = {\textbf{Kiar}, \textbf{G.} and Bridgeford, E.~W. and Gray~Roncal, W.~R. and Chandrashekhar, V. and Mhembere, D. and Ryman, S. and Zuo, X.~N. and Marguiles, D.~S. and Craddock, R.~C. and Priebe, C.~E. and Jung, R. and Calhoun, V.~D. and Caffo, B. and Burns, R. and Milham, M.~P. and Vogelstein, J.~T.},
-    title = {A High-Throughput Pipeline Identifies Robust Connectomes But Troublesome Variability},
-    year = {2018},
-    doi = {10.1101/188706},
-    publisher = {Cold Spring Harbor Laboratory},
-    abstract = {Modern scientific discovery depends on collecting large heterogeneous datasets with many sources of variability, and on applying domain-specific pipelines from which one can draw scientific insight or clinical utility. For example, macroscale connectomics studies require complex pipelines to process raw functional or diffusion data and estimate connectomes. Individual studies tend to customize pipelines to their needs, raising concerns about their reproducibility, which add to a longer list of factors that may differ across studies and result in failures to replicate (including sampling, experimental design, and data acquisition protocols). Mitigating these issues requires the development of pipelines that can be applied across multiple studies. We developed NeuroData{\textquoteright}s MRI to Graphs (ndmg) pipeline using several functional and diffusion studies to estimate connectomes. Without any manual intervention or parameter tuning, ndmg ran on nearly 30 different studies (nearly 6,000 scans), with each scan resulting in a biologically plausible connectome (as assessed by multiple quality assurance metrics at each processing stage). For each study, the connectomes from ndmg are more similar within than across individuals, indicating that ndmg is preserving biological variability. Moreover, the connectomes exhibit near perfect consistency for certain connectional properties across every scan, individual, study, site and modality; these include stronger ipsilateral than contralateral connections and stronger homotopic than heterotopic connections. Yet, how much stronger varied across individuals and studies {\textemdash} much more so when pooling data across sites, even after controlling for study, site, and basic demographic variables (i.e., age, sex, and ethnicity). This indicates that other experimental variables (possibly those not measured or reported) are contributing to this variability, which if not accounted for can limit the value of aggregate datasets, as well as expectations regarding the accuracy of findings and likelihood of replication. We thus provide a set of principles to guide the development of pipelines capable of pooling data across studies while maintaining biological variability and minimizing measurement error. This open science approach provides us with an opportunity to understand and eventually mitigate spurious results for both past and future studies.},
-    URL = {https://www.biorxiv.org/content/early/2018/02/24/188706},
-    eprint = {https://www.biorxiv.org/content/early/2018/02/24/188706.full.pdf},
-    journal = {bioRxiv}
+@manual{Bridgeford2019-kp,
+  title    = "Optimal Experimental Design for Big Data: Applications in Brain
+              Imaging",
+  author   = "Bridgeford, E.~W. and Wang, S. and Yang, Z. and Wang, Z.
+              and Xu, T. and Craddock, C. and \textbf{Kiar}, \textbf{G.} and
+              Gray-Roncal, W. and Priebe, C.~E. and Caffo, B. and
+              Milham, M. and Zuo, X~.N. and {Consortium for Reliability
+              and Reproduciblity} and Vogelstein, J~.T.",
+  abstract = "The cost of data collection and processing is becoming
+              prohibitively expensive for many research groups across
+              disciplines, a problem that is exacerbated by the dependence of
+              ever larger sample sizes to obtain reliable inferences for
+              increasingly subtle questions. And yet, as more data is available
+              and open access, more researchers desire to analyze it for
+              different questions, often including previously unforeseen
+              questions. To further increase sample sizes, existing datasets
+              are often amalgamated. These reference datasets - datasets that
+              serve to answer many disparate questions for different
+              individuals - are increasingly common and important. Reference
+              pipelines efficiently and flexibly analyze on all the datasets.
+              How can one optimally design these reference datasets and
+              pipelines to yield derivative data that are simultaneously useful
+              for many different tasks? We propose an approach to experimental
+              design that leverages multiple measurements for each distinct
+              item (for example, an individual). The key insight is that each
+              measurement of the same item should be more similar to other
+              measurements of that item, as compared to measurements of any
+              other item. In other words, we seek to optimally discriminate one
+              item from another. We formalize the notion of discriminability,
+              and introduce both a non-parameteric and parametric statistic to
+              quantify the discriminability of potentially multivariate or
+              non-Euclidean datasets. With this notion, one can make optimal
+              decisions - either with regard to acquisition or analysis of data
+              - by maximizing discriminability. Crucially, this optimization
+              can be performed in the absence of any task-specific (or
+              supervised) information. We show that optimizing decisions with
+              respect to discriminability yields improved performance on
+              subsequent inference tasks. We apply this strategy to a brain
+              imaging dataset built by the ``Consortium for Reliability and
+              Reproducability'' which consists of 24 disparate magnetic
+              resonance imaging datasets, each with up to hundreds of
+              individuals that were imaged multiple times. We show that by
+              optimizing pipelines with respect to discriminability, we improve
+              performance on multiple subsequent inference tasks, even though
+              discriminability does not consider the tasks whatsoever.",
+  journal  = "bioRxiv",
+  pages    = "802629",
+  month    =  oct,
+  year     =  2019,
+  language = "en"
+}
+@manual{Kiar2019-in,
+  title         = "Comparing Perturbation Models for Evaluating Stability of
+                   {Post-Processing} Pipelines in Neuroimaging",
+  author        = "\textbf{Kiar}, \textbf{G.} and de Oliveira Castro, P. and Rioux,
+                   P. and Petit, E. and Brown, S.~T. and Evans, A.~C.
+                   and Glatard, T.",
+  abstract      = "A lack of software reproducibility has become increasingly
+                   apparent in the last several years, calling into question
+                   the validity of scientific findings affected by published
+                   tools. Reproducibility issues may have numerous sources of
+                   error, including the underlying numerical stability of
+                   algorithms and implementations employed. Various forms of
+                   instability have been observed in neuroimaging, including
+                   across operating system versions, minor noise injections,
+                   and implementation of theoretically equivalent algorithms.
+                   In this paper we explore the effect of various perturbation
+                   methods on a typical neuroimaging pipeline through the use
+                   of i) near-epsilon noise injections, ii) Monte Carlo
+                   Arithmetic, and iii) varying operating systems to identify
+                   the quality and severity of their impact. The work presented
+                   here demonstrates that even low order computational models
+                   such as the connectome estimation pipeline that we used are
+                   susceptible to noise. This suggests that stability is a
+                   relevant axis upon which tools should be compared,
+                   developed, or improved, alongside more commonly considered
+                   axes such as accuracy/biological feasibility or performance.
+                   The heterogeneity observed across participants clearly
+                   illustrates that stability is a property of not just the
+                   data or tools independently, but their interaction.
+                   Characterization of stability should therefore be evaluated
+                   for specific analyses and performed on a representative set
+                   of subjects for consideration in subsequent statistical
+                   testing. Additionally, identifying how this relationship
+                   scales to higher-order models is an exciting next step which
+                   will be explored. Finally, the joint application of
+                   perturbation methods with post-processing approaches such as
+                   bagging or signal normalization may lead to the development
+                   of more numerically stable analyses while maintaining
+                   sensitivity to meaningful variation.",
+  month         =  aug,
+  year          =  2019,
+  archivePrefix = "arXiv",
+  primaryClass  = "q-bio.NC",
+  eprint        = "1908.10922"
 }
 
 %% WorkInProgress
-%@techreport{wang2016:discriminability,
-%	author = {Wang, S. and Yang, Z. and Zuo, X.~N. and Milham, M.~P. and Craddock, R.~C. and \textbf{Kiar}, \textbf{G.} and Gray Roncal, W.~R. and Bridgeford, E.~W. and the Consortium of Reliability and Reproducibility (CoRR) and Preibe, C~.E. and Vogelstein, J.~T.},
-%	journal = {In Preparation},
-%	title = {Optimal Decisions for Discovery Science via Maximizing Discriminability: Applications in Neuroimaging},
-%	year = {2017},
-%}
+%% @techreport{name, }
 
 %% PeerReviewedJournalArticles
+@ARTICLE{Zhang2019-ko,
+  title    = "Brain status modeling with non-negative projective dictionary
+              learning",
+  author   = "Zhang, M. and Desrosiers, C. and Guo, Y. and
+              Khundrakpam, B. and Al-Sharif, N. and \textbf{Kiar}, \textbf{G.} and
+              Valdes-Sosa, P. and Poline, J.~B. and Evans, A.~C.",
+  abstract = "Accurate prediction of individuals' brain age is critical to
+              establish a baseline for normal brain development. This study
+              proposes to model brain development with a novel non-negative
+              projective dictionary learning (NPDL) approach, which learns a
+              discriminative representation of multi-modal neuroimaging data
+              for predicting brain age. Our approach encodes the variability of
+              subjects in different age groups using separate dictionaries,
+              projecting features into a low-dimensional manifold such that
+              information is preserved only for the corresponding age group.
+              The proposed framework improves upon previous discriminative
+              dictionary learning methods by incorporating orthogonality and
+              non-negativity constraints, which remove representation
+              redundancy and perform implicit feature selection. We study brain
+              development on multi-modal brain imaging data from the PING
+              dataset (N = 841, age = 3-21 years). The proposed analysis uses
+              our NDPL framework to predict the age of subjects based on
+              cortical measures from T1-weighted MRI and connectome from
+              diffusion weighted imaging (DWI). We also investigate the
+              association between age prediction and cognition, and study the
+              influence of gender on prediction accuracy. Experimental results
+              demonstrate the usefulness of NDPL for modeling brain
+              development.",
+  journal  = "Neuroimage",
+  pages    = "116226",
+  month    =  oct,
+  year     =  2019,
+  keywords = "Brain age prediction; Brain maturity modeling; Cognitive
+              biomarker; Projective dictionary learning",
+  language = "en"
+}
+@ARTICLE{Yarkoni2019-be,
+  title    = "{PyBIDS}: Python tools for {BIDS} datasets",
+  author   = "Yarkoni, T. and Markiewicz, C. and de la Vega,
+              A. and Gorgolewski, K. and Salo, T. and
+              Halchenko, Y. and McNamara, Q. and DeStasio, K.
+              and Poline, J.~B. and Petrov, D. and Hayot-Sasson,
+              V. and Nielson, D. and Carlin, J. and \textbf{Kiar},
+              \textbf{G.} and Whitaker, K. and DuPre, E. and Wagner,
+              A. and Tirrell, L. and Jas, M. and Hanke, M. and
+              Poldrack, R. and Esteban, O. and Appelhoff, S. and
+              Holdgraf, C. and Staden, I. and Thirion, B. and
+              Kleinschmidt, D. and Lee, J. and di Castello, M. and
+              Notter, M. and Blair, R.",
+  abstract = "Software archive",
+  journal  = "JOSS",
+  volume   =  4,
+  number   =  40,
+  pages    = "1294",
+  month    =  aug,
+  year     =  2019
+}
 @article{kiar2019clowdr,
 author={\textbf{Kiar}, \textbf{G.} and Brown, S.~T. and Glatard, T. and Evans, A.~C.},
 title={A Serverless Tool for Platform Agnostic Computational Experiment Management},
@@ -27,6 +164,7 @@ journal={Frontiers in Neuroinformatics},
 volume={13},
 pages={12},
 year={2019},
+month={mar},
 url={https://www.frontiersin.org/article/10.3389/fninf.2019.00012},
 DOI={10.3389/fninf.2019.00012},
 ISSN={1662-5196},   
@@ -148,6 +286,14 @@ archivePrefix = "arXiv",
 }
 
 %% Talks & Workshops
+@booklet{kiar_talk_cre2019sc,
+  title={Comparing Perturbation Models for Evaluating Stability of Neuroimaging Pipelines},
+  journal={Computational Reproducibility at Exascale},
+  publisher = {Super Computing},
+  year={2019},
+  month={nov},
+  note={Presentation}
+}
 @booklet{ossig2019symposium,
   title={From “Open Science” to “Science”: Shifting the status quo in data sharing, software, and publishing},
   journal={Organization for Human Brain Mapping},
@@ -287,6 +433,13 @@ archivePrefix = "arXiv",
 }
 
 %% ConferencePosters
+@proceedings{kiar2019sage,
+  title   = {Enabling FAIR Scientific Tool Development, Dissemination, and Consumption with Boutiques},
+  author  = {\textbf{Kiar}, \textbf{G.} and Benderoff, E. and Charrière, J. and Dubé, S. and Guérin, L.~O. and Bonnet, A. and Camarasu-Pop, S. and Beck, N. and Rioux, P. and Boroday, S. and Brown, S.~T. and Poline, J.~B. and Evans, A.~E. and Glatard, T.},
+	journal = {Sage Assembly},
+	year    = {2019},
+	month   = {jul}
+}
 @proceedings{kiar2019boutiquesfairohbm_poster,
   title   = {A FAIR Approach to Neuroimaging Analysis with Boutiques},
   author  = {\textbf{Kiar}, \textbf{G.} and Benderoff, E. and Charrière, J. and Dubé, S. and Guérin, L.~O. and Bonnet, A. and Camarasu-Pop, S. and Beck, N. and Rioux, P. and Boroday, S. and Brown, S.~T. and Poline, J.~B. and Evans, A.~E. and Glatard, T.},
