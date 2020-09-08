@@ -1,133 +1,80 @@
-%% InSubmission
-@manual{Bridgeford2019-kp,
-  title    = "Optimal Experimental Design for Big Data: Applications in Brain
-              Imaging",
-  author   = "Bridgeford, E.~W. and Wang, S. and Yang, Z. and Wang, Z.
-              and Xu, T. and Craddock, C. and \textbf{Kiar}, \textbf{G.} and
-              Gray-Roncal, W. and Priebe, C.~E. and Caffo, B. and
-              Milham, M. and Zuo, X~.N. and {Consortium for Reliability
-              and Reproduciblity} and Vogelstein, J~.T.",
-  abstract = "The cost of data collection and processing is becoming
-              prohibitively expensive for many research groups across
-              disciplines, a problem that is exacerbated by the dependence of
-              ever larger sample sizes to obtain reliable inferences for
-              increasingly subtle questions. And yet, as more data is available
-              and open access, more researchers desire to analyze it for
-              different questions, often including previously unforeseen
-              questions. To further increase sample sizes, existing datasets
-              are often amalgamated. These reference datasets - datasets that
-              serve to answer many disparate questions for different
-              individuals - are increasingly common and important. Reference
-              pipelines efficiently and flexibly analyze on all the datasets.
-              How can one optimally design these reference datasets and
-              pipelines to yield derivative data that are simultaneously useful
-              for many different tasks? We propose an approach to experimental
-              design that leverages multiple measurements for each distinct
-              item (for example, an individual). The key insight is that each
-              measurement of the same item should be more similar to other
-              measurements of that item, as compared to measurements of any
-              other item. In other words, we seek to optimally discriminate one
-              item from another. We formalize the notion of discriminability,
-              and introduce both a non-parameteric and parametric statistic to
-              quantify the discriminability of potentially multivariate or
-              non-Euclidean datasets. With this notion, one can make optimal
-              decisions - either with regard to acquisition or analysis of data
-              - by maximizing discriminability. Crucially, this optimization
-              can be performed in the absence of any task-specific (or
-              supervised) information. We show that optimizing decisions with
-              respect to discriminability yields improved performance on
-              subsequent inference tasks. We apply this strategy to a brain
-              imaging dataset built by the ``Consortium for Reliability and
-              Reproducability'' which consists of 24 disparate magnetic
-              resonance imaging datasets, each with up to hundreds of
-              individuals that were imaged multiple times. We show that by
-              optimizing pipelines with respect to discriminability, we improve
-              performance on multiple subsequent inference tasks, even though
-              discriminability does not consider the tasks whatsoever.",
-  journal  = "bioRxiv",
-  pages    = "802629",
-  month    =  oct,
-  year     =  2019,
-  language = "en"
+%% Pre-print
+@manual{bridgeford2020elim,
+  title={Eliminating accidental deviations to minimize generalization error: applications in connectomics and genomics},
+  author={Bridgeford, E.~W. and Wang, S. and Yang, Z. and Wang, Z. and Xu, T. and Craddock, C. and Dey, J. and \textbf{Kiar}, \textbf{G.} and Gray-Roncal, W.~.R. and Coulantoni, C. and others},
+  journal={bioRxiv},
+  pages={802629},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
 }
-@manual{Kiar2019-in,
-  title         = "Comparing Perturbation Models for Evaluating Stability of
-                   {Post-Processing} Pipelines in Neuroimaging",
-  author        = "\textbf{Kiar}, \textbf{G.} and de Oliveira Castro, P. and Rioux,
-                   P. and Petit, E. and Brown, S.~T. and Evans, A.~C.
-                   and Glatard, T.",
-  abstract      = "A lack of software reproducibility has become increasingly
-                   apparent in the last several years, calling into question
-                   the validity of scientific findings affected by published
-                   tools. Reproducibility issues may have numerous sources of
-                   error, including the underlying numerical stability of
-                   algorithms and implementations employed. Various forms of
-                   instability have been observed in neuroimaging, including
-                   across operating system versions, minor noise injections,
-                   and implementation of theoretically equivalent algorithms.
-                   In this paper we explore the effect of various perturbation
-                   methods on a typical neuroimaging pipeline through the use
-                   of i) near-epsilon noise injections, ii) Monte Carlo
-                   Arithmetic, and iii) varying operating systems to identify
-                   the quality and severity of their impact. The work presented
-                   here demonstrates that even low order computational models
-                   such as the connectome estimation pipeline that we used are
-                   susceptible to noise. This suggests that stability is a
-                   relevant axis upon which tools should be compared,
-                   developed, or improved, alongside more commonly considered
-                   axes such as accuracy/biological feasibility or performance.
-                   The heterogeneity observed across participants clearly
-                   illustrates that stability is a property of not just the
-                   data or tools independently, but their interaction.
-                   Characterization of stability should therefore be evaluated
-                   for specific analyses and performed on a representative set
-                   of subjects for consideration in subsequent statistical
-                   testing. Additionally, identifying how this relationship
-                   scales to higher-order models is an exciting next step which
-                   will be explored. Finally, the joint application of
-                   perturbation methods with post-processing approaches such as
-                   bagging or signal normalization may lead to the development
-                   of more numerically stable analyses while maintaining
-                   sensitivity to meaningful variation.",
-  month         =  aug,
-  year          =  2019,
-  archivePrefix = "arXiv",
-  primaryClass  = "q-bio.NC",
-  eprint        = "1908.10922"
+@manual{Kiar2018-jt,
+  title     = "A {High-Throughput} Pipeline Identifies Robust Connectomes But
+               Troublesome Variability",
+  author    = "\textbf{Kiar}, \textbf{G} and Bridgeford, E and Roncal, W G and Chandrashekhar, V
+               and {others}",
+  abstract  = "Modern scientific discovery depends on collecting large
+               heterogeneous datasets with many sources of variability, and on
+               applying domain-specific pipelines from which one can draw
+               scientific insight or clinical utility. For example, macroscale
+               connectomics studies require …",
+  journal   = "bioRxiv",
+  publisher = "biorxiv.org",
+  year      =  2018
+}
+@manual{salari2020file,
+  title={File-based localization of numerical perturbations in data analysis pipelines},
+  author={Salari, A. and \textbf{Kiar}, \textbf{G.} and Lewis, L. and Evans, A.~C. and Glatard, T.},
+  journal={arXiv preprint arXiv:2006.04684},
+  year={2020}
 }
 
-%% WorkInProgress
+%% Under Review
 %% @techreport{name, }
+@techreport{HenriBellemare2020q3,
+  title = "Exploring the Relationship Between Early Psychosis Verbal Memory Deficits and White Matter Integrity",
+  author = "Henri-Bellemare, C. and Lavigne, K.~M. and \textbf{Kiar}, \textbf{G.} and Joober, R and Malla, A. and Chakravarty, M.~M. and Lepage, M.",
+  month = sep,
+  year = 2020,
+  journal = "Schizophrenia Research",
+}
 
 %% PeerReviewedJournalArticles
+@article{Kiar2020-lb,
+  title   = "Comparing perturbation models for evaluating stability of
+             neuroimaging pipelines",
+  author  = "\textbf{Kiar}, \textbf{G.} and {de Oliveira Castro}, P. and Rioux, P. and
+             Petit, E. and Brown, S.~T. and Evans, A.~C. and Glatard, T.",
+  journal = "The International Journal of High Performance Computing
+             Applications",
+  pages   = "109434202092623",
+  year    =  2020
+}
+@article{10.1093/braincomms/fcaa092,
+    author = {Khundrakpam, B. and Vainik, U. and Gong, J. and Al-Sharif, N. and Bhutani, N. and \textbf{Kiar}, \textbf{G.} and Zeighami, Y. and Kirschner, M. and Luo, C. and Dagher, A. and Evans, A.~C.},
+    title = "{Neural correlates of polygenic risk score for autism spectrum disorders in general population}",
+    journal = {Brain Communications},
+    year = {2020},
+    month = {07},
+    issn = {2632-1297},
+    doi = {10.1093/braincomms/fcaa092},
+    url = {https://doi.org/10.1093/braincomms/fcaa092},
+    note = {fcaa092},
+    eprint = {https://academic.oup.com/braincomms/advance-article-pdf/doi/10.1093/braincomms/fcaa092/33476279/fcaa092.pdf},
+}
+@article{bosch2020quantitative,
+  title={A quantitative EEG toolbox for the MNI Neuroinformatics ecosystem: normative SPM of EEG source spectra},
+  author={Bosch-Bayard, J. and Aubert-Vazquez, E. and Brown, S.~T. and Rogers, C. and \textbf{Kiar}, \textbf{G.} and Glatard, T. and Scaria, L. and Galan-Garcia, L. and Bringas-Vega, M.~L. and Virues-Alba, T. and others},
+  journal={Frontiers in Neuroinformatics},
+  volume={14},
+  year={2020},
+  publisher={Frontiers Media SA}
+}
 @ARTICLE{Zhang2019-ko,
   title    = "Brain status modeling with non-negative projective dictionary
               learning",
   author   = "Zhang, M. and Desrosiers, C. and Guo, Y. and
               Khundrakpam, B. and Al-Sharif, N. and \textbf{Kiar}, \textbf{G.} and
               Valdes-Sosa, P. and Poline, J.~B. and Evans, A.~C.",
-  abstract = "Accurate prediction of individuals' brain age is critical to
-              establish a baseline for normal brain development. This study
-              proposes to model brain development with a novel non-negative
-              projective dictionary learning (NPDL) approach, which learns a
-              discriminative representation of multi-modal neuroimaging data
-              for predicting brain age. Our approach encodes the variability of
-              subjects in different age groups using separate dictionaries,
-              projecting features into a low-dimensional manifold such that
-              information is preserved only for the corresponding age group.
-              The proposed framework improves upon previous discriminative
-              dictionary learning methods by incorporating orthogonality and
-              non-negativity constraints, which remove representation
-              redundancy and perform implicit feature selection. We study brain
-              development on multi-modal brain imaging data from the PING
-              dataset (N = 841, age = 3-21 years). The proposed analysis uses
-              our NDPL framework to predict the age of subjects based on
-              cortical measures from T1-weighted MRI and connectome from
-              diffusion weighted imaging (DWI). We also investigate the
-              association between age prediction and cognition, and study the
-              influence of gender on prediction accuracy. Experimental results
-              demonstrate the usefulness of NDPL for modeling brain
-              development.",
   journal  = "Neuroimage",
   pages    = "116226",
   month    =  oct,
@@ -168,7 +115,6 @@ month={mar},
 url={https://www.frontiersin.org/article/10.3389/fninf.2019.00012},
 DOI={10.3389/fninf.2019.00012},
 ISSN={1662-5196},   
-abstract={Neuroscience has been carried into the domain of big data and high performance computing (HPC) on the backs of initiatives in data collection and an increasingly compute-intensive tools. While managing HPC experiments requires considerable technical acumen, platforms and standards have been developed to ease this burden on scientists. While web-portals make resources widely accessible, data organizations such as the Brain Imaging Data Structure and tool description languages such as Boutiques provide researchers with a foothold to tackle these problems using their own datasets, pipelines, and environments. While these standards lower the barrier to adoption of HPC and cloud systems for neuroscience applications, they still require the consolidation of disparate domain-specific knowledge. We present Clowdr, a lightweight tool to launch experiments on HPC systems and clouds, record rich execution records, and enable the accessible sharing and re-launch of experimental summaries and results. Clowdr uniquely sits between web platforms and bare-metal applications for experiment management by preserving the flexibility of do-it-yourself solutions while providing a low barrier for developing, deploying and disseminating neuroscientific analysis.}
 }
 @article{glatard2018boutiques,
   title={Boutiques: a flexible framework to integrate command-line applications in computing platforms},
@@ -267,6 +213,22 @@ archivePrefix = "arXiv",
 
 
 %% PeerReviewedConferenceArticles
+@inproceedings{10.1145/3311790.3401776,
+author = {Rioux, P. and \textbf{Kiar}, \textbf{G.} and Hutton, A. and Evans, A.~C. and Brown, S.~T.},
+title = {Deploying Large Fixed File Datasets with SquashFS and Singularity},
+year = {2020},
+isbn = {9781450366892},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3311790.3401776},
+doi = {10.1145/3311790.3401776},
+booktitle = {Practice and Experience in Advanced Research Computing},
+pages = {72–76},
+numpages = {5},
+keywords = {SquashFS, Virtualization, Lustre, Singularity},
+location = {Portland, OR, USA},
+journal = {PEARC '20}
+}
 @inproceedings{Dupre2018chi,
     author = {DuPre*, E. and \textbf{Kiar}*, \textbf{G.} and Craddock, R.~C., and  {Gorgolewski}, K.~J. and Hoffstaedter, F. and Keshavan, A. and Poline, J.~B. and Visconti di Oleggio Castello, M. and Whitaker, K. and Bellec, P.},
     title = {Organization for Human Brain Mapping Open Science Hackathons: Accessible and Inclusive Neuroinformatics},
@@ -274,7 +236,6 @@ archivePrefix = "arXiv",
     month = {jan},
     publisher = {Computer Human Interaction},
     journal = {2nd Workshop on Hacking and Making at Time-Bounded events},
-    abstract = {As leaders of the Organization for Human Brain Mapping's (OHBM) Open Science Special Interest Group, we host an annual hackathon to teach and promote open science among neuroimaging researchers. We have endeavored to design our hackathon events such that existing open-source software projects receive attention and support from experienced users while new adopters can gain familiarity with these tools. However, we have received community feedback that our events are still perceived as exclusionary to code-nervous researchers, and we have had difficulty quantifying overall outcomes to assess how to make improvements. We are applying to the CHI workshop with the hope of learning how to better design and organize our events to be more inclusive, and provide concrete evidence upon which we can advertise the successes of OHBM hackathon events and continuously improve.}
 }
 @inproceedings{Kiar2013wef,
 	title={Electric localization of weakly electric fish using neural networks},
@@ -440,6 +401,62 @@ archivePrefix = "arXiv",
 }
 
 %% ConferencePosters
+@proceedings{levitis2020dian_poster,
+  title   = {Validation of an epidemic spreading model to simulate Aβ spread in familial Alzheimer’s disease},
+  author  = {Levitis, G. and Vogel, J. and \textbf{Kiar}, \textbf{G.} and Funck, T. and Ituria, Y. and Evans, A.~C.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
+@proceedings{henrib2020verbalmem_ohbm,
+  title   = {Exploring the Relationship Between Early Psychosis Verbal Memory Deficits and White Matter Integrity},
+  author  = {Henri-Bellemare, C. and \textbf{Kiar}, \textbf{G.} and Lavigne, K and Patel, R. and Chakravarty, M.~M. and Lepage, M.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
+@proceedings{chung2020heritable_ohbm,
+  title   = {Human Structural Connectomes are Heritable},
+  author  = {Chung, J. and Dey, J. and \textbf{Kiar}, \textbf{G.} and Priebe, C.~E. and Vogelstein, J.~T.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
+@proceedings{bosch2020qeeg_ohbm,
+  title   = {Incorporating quantitative EEG analysis into the MNI Open Science neuroinformatics ecosystem},
+  author  = {Bosch-Bayard, J. and Rogers, C. and Aubert, E. and Brown, S.~T. and \textbf{Kiar}, \textbf{G.} and Glatard, T. and Galán-García, L. and Bringas~Vega, M. Virues, T. and Das, S. and Madjar, C. and Mohades, Z. and MacIntyre, L. and Evans, A.~C. and Valdes-Sosa, P.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
+@proceedings{kiar2020fuzzy_ohbm,
+  title   = {Fuzzy: An Ecosystem for Evaluating the Stability of Pipelines Through Monte Carlo Arithmetic},
+  author  = {\textbf{Kiar}, \textbf{G.} and Salari, A. and Hannema, R. and Vadariya, M. and Dugre, M. and Rioux, P. and Douglas, P. and Brown, S.~T. and de Oliveira Castro, P. and Petit, E. and Evans, A.~C. and Glatard, T.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
+@proceedings{bridgeford2020optimal_ohbm,
+  title   = {Optimal Experimental Design for Big Data: Applications in Brain Imaging},
+  author  = {Bridgeford, E. and Wang, S. and Yang, Z. and Wang, Z. and Xu, T. and Craddock, C. and Dey, J. and \textbf{Kiar}, \textbf{G.} and Gray-Roncal, W.~R. and Priebe, C.~E. and Caffo, B. and Milham, M. and Zuo, X.~N. and Vogelstein, J.~T.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
+@proceedings{beck2020cbrain_ohbm,
+  title   = {New Open Science features in the CBRAIN Platform},
+  author  = {Beck, N. and Rioux, P. and \textbf{Kiar}, \textbf{G.} and Brown, S.~T. and Czech, C. and Boroday, S. and Lecours-Boucher, X. and  Quesnel, D. and Rogers, C. and Khalili-Mahani, N. and Adalat, R. and Glatard, T. and Das, S. and Evans, A.~C.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
+@proceedings{dockes2020nistats_ohbm,
+  title   = {Nilearn and Nistats: Machine learning and statistics for fMRI in Python},
+  author  = {Dockès, J. and Chawla, K. and Abraham, A. and Bazeille, T. and Boos, M. and Bougacha, S. and Bzdok, D. and Chevalier, J.~A. and Dadi, K. and de~Hollander, G. and Delettre, C. and DuPre, E. and Gale, D. and Gorgolewski, K. and Gramfort, A. and Grigis, A. and Guidotti, R. and Hammonds, R. and Hoyos-Idrobo, A. and Huntenburg, J. and \textbf{Kiar}, \textbf{G.} and Larson, E. and Lemaitre, G. and Liem, F. and Markiewicz, C. and Nguyen, T.~B. and Pinho, A.~L. and Pisner, D. and Rahim, M. and Sanz-Leon, P. and Takerkart, S. and Thirion, B. and Vogel, J. and Wiesner, J. and Varoquaux, G.},
+	journal = {Organization for Human Brain Mapping},
+	year    = {2020},
+	month   = {jun}
+}
 @proceedings{kiar2019sage,
   title   = {Enabling FAIR Scientific Tool Development, Dissemination, and Consumption with Boutiques},
   author  = {\textbf{Kiar}, \textbf{G.} and Benderoff, E. and Charrière, J. and Dubé, S. and Guérin, L.~O. and Bonnet, A. and Camarasu-Pop, S. and Beck, N. and Rioux, P. and Boroday, S. and Brown, S.~T. and Poline, J.~B. and Evans, A.~E. and Glatard, T.},

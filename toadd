@@ -1,5 +1,6 @@
-positions
+positions:
 - inria "visiting scientist"
+- concordia teaching (past)
 
 open source contributions:
 - turing inst workshop
@@ -7,20 +8,19 @@ open source contributions:
 
 extracurriculars:
 
-awards
+awards:
 
-reviewed for
+reviewed for:
 
-papers
+supervised:
 
-organized workshops
+papers:
+- liza's paper
+- hamid's paper
+- katie's paper
 
-talks
+organized workshops:
 
-posters
-- hbm fuzzy
-- hbm nilearn
-- hbm cbrain
-- hbm esm
-- hbm charlie
-- hbm jaewon
+talks:
+
+posters:
