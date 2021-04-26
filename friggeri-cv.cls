@@ -41,6 +41,11 @@
   \colorlet{red}{gray}
   \colorlet{blue}{gray}
 	\colorlet{pink}{gray}
+  \colorlet{lightblue}{gray}
+  \colorlet{plubblue}{gray}
+  \colorlet{orcidgreen}{gray}
+  \colorlet{googred}{gray}
+  \colorlet{gateteal}{gray}
   \colorlet{fillheader}{white}
   \colorlet{header}{gray}
 \else
@@ -49,13 +54,15 @@
 \fi
 \colorlet{textcolor}{gray}
 \colorlet{headercolor}{gray}
+\colorlet{fillheader}{white}
+\colorlet{header}{gray}
 
 %%%%%%%%%
 % Fonts %
 %%%%%%%%%
 
 \RequirePackage[quiet]{fontspec}
-\RequirePackage{fontawesome}
+\RequirePackage{fontawesome5}
 \RequirePackage{academicons}
 
 \RequirePackage[math-style=TeX]{unicode-math}
@@ -85,20 +92,24 @@
   \color{white}%
 }
 
-\newcommand{\header}[3]{%
+\newcommand{\header}[4]{%
   \begin{tikzpicture}[remember picture,overlay]
-    \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=4cm] (box) at (current page.north){};
-    \node [anchor=center] (name) at (box) {%
-      \fontsize{40pt}{72pt}\color{header}%
+    \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=3.5cm] (box) at (current page.north){};
+    \node [anchor=south] (name) at (box.center) {%
+      \vspace{20pt}
+      \fontsize{30pt}{50pt}\color{header}%
       {\thinfont #1}{\bodyfont  #2}
     };
-    \node [anchor=north] at (name.south) {%
-      \fontsize{14pt}{24pt}\color{header}%
+    \node [anchor=north] (job) at (name.south) {%
+      \fontsize{12pt}{18pt}\color{header}%
       \thinfont #3%
     };
+    \node [anchor=north,text width=0.9*\paperwidth,align=center] at (job.south) {%
+      \fontsize{12pt}{18pt}\color{header}%
+      \thinfont #4%
+    };
   \end{tikzpicture}
-  \vspace{2.5cm}
-  \vspace{-2\parskip}
+  \vspace{40pt}
 }
 
 
@@ -161,7 +172,7 @@
 }
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\entry}[4]{%
-  #1&\parbox[t]{11.8cm}{%
+  #1&\parbox[t]{15.3cm}{%
     \textbf{#2}%
     \hfill%
     {\footnotesize\addfontfeature{Color=lightgray} #3}\\%
@@ -184,7 +195,7 @@
   \renewcommand{\subsection}[1]{
     \par\vspace{\baselineskip}{\large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.6}(1.5, 4.33)
+  \begin{textblock}{3.6}(1.5, 3.6)
   \begin{flushright}
   \obeycr
 }{%
